@@ -22,7 +22,7 @@ Parameters | Note
 Propagation Distance  | 300 meters for large tiles and 150 meters for small tiles (see line 127-130 in main.py)
 Propagation Interval  | Default is 5 meters. Config with -interval flag.
 Matching Distance Threshold | Default is 10 meters. Config with -matching_threshold flag.
-Matching Angle Threshold | 30 degrees
+Matching Angle Threshold | 45 degrees
 One-to-One Matching | True
 
 
